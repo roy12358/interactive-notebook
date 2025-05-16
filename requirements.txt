@@ -7,4 +7,4 @@ bokeh
 scipy
 IPython
 seaborn
-volia
+voila
