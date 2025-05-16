@@ -5,3 +5,5 @@ plotly
 ipywidgets
 bokeh
 scipy
+IPython
+seaborn
