@@ -3,8 +3,5 @@ pandas
 matplotlib
 plotly
 ipywidgets
-bokeh
-scipy
-IPython
 seaborn
 voila
